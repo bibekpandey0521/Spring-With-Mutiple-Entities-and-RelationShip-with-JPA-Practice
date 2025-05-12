@@ -19,4 +19,3 @@ This project demonstrates how to implement **One-to-Many** and **Many-to-One** r
 - How to define `@OneToMany` and `@ManyToOne` relationships in entity classes.
 - How to properly use cascade types and fetch strategies.
 - How to map bidirectional relationships in JPA.
-- How to use REST APIs to persist and retrieve relational data.
